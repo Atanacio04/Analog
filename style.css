@@ -5,7 +5,7 @@ html,body{
 	background-color: #efefef;
 }
 #page{
-	background-image: url(./img/background.jpg);
+	background-image: url(background.jpg);
 	background-size: cover;
 	max-width: 940px;
 	min-width: 720px;
